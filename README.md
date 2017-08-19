@@ -1,2 +1,2 @@
 # study
-* pantherhead
+* @pantherhead
